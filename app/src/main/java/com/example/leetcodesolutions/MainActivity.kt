@@ -35,9 +35,9 @@ fun GreetingPreview() {
     LeetCodeSolutionsTheme {
         //[List of tasks]
         //1. Two Sum
-        /*Text(
+        Text(
             text = TwoSum.twoSum(intArrayOf(2,7,11,15), 9).contentToString()
-        )*/
+        )
         //2. Add Two Numbers
         
     }
