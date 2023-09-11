@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.leetcodesolutions.solutions.TwoSum
+import com.example.leetcodesolutions.solutions.twoSum
 import com.example.leetcodesolutions.ui.theme.LeetCodeSolutionsTheme
 
 class MainActivity : ComponentActivity() {
@@ -36,9 +36,8 @@ fun GreetingPreview() {
         //[List of tasks]
         //1. Two Sum
         Text(
-            text = TwoSum.twoSum(intArrayOf(2,7,11,15), 9).contentToString()
+            text = twoSum(intArrayOf(2,7,11,15), 9).contentToString()
         )
         //2. Add Two Numbers
-        
     }
 }
