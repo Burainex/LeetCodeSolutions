@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                     //[List of tasks]
                     //1. Two Sum : solutions -> TwoSumTask.kt
                     //2. Add Two Numbers : solutions -> AddTwoNumbersTask.kt
+                    //3. Longest Substring Without Repeating Characters: solutions -> LongestSubstringWithoutRepeatingCharacters.kt
                 }
             }
         }
