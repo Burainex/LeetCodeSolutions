@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                     //2. Add Two Numbers : solutions -> AddTwoNumbersTask.kt
                     //3. Longest Substring Without Repeating Characters: solutions -> LongestSubstringWithoutRepeatingCharacters.kt
                     //4. Median of Two Sorted Arrays: solutions -> MedianOfTwoSortedArrays.kt
+                    //9. Palindrome Number: solutions -> PalindromeNumber.kt
                 }
             }
         }
