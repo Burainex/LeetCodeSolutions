@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                     //9. Palindrome Number: solutions -> PalindromeNumber.kt
                     //13. Roman to Integer: solutions -> RomanToInteger.kt
                     //14. Longest Common Prefix: solutions -> LongestCommonPrefix.kt
+                    //20. Valid Parentheses: solutions -> ValidParentheses.kt
                 }
             }
         }
