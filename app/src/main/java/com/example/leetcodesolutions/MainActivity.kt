@@ -29,6 +29,7 @@ class MainActivity : ComponentActivity() {
                     //14. Longest Common Prefix: solutions -> LongestCommonPrefix.kt
                     //20. Valid Parentheses: solutions -> ValidParentheses.kt
                     //21. Merge Two Sorted Lists: solutions -> MergeTwoSortedLists.kt
+                    //26. Remove Duplicates from Sorted Array: solutions -> RemoveDuplicatesFromSortedArray.kt
                 }
             }
         }
