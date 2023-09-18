@@ -30,6 +30,7 @@ class MainActivity : ComponentActivity() {
                     //20. Valid Parentheses: solutions -> ValidParentheses.kt
                     //21. Merge Two Sorted Lists: solutions -> MergeTwoSortedLists.kt
                     //26. Remove Duplicates from Sorted Array: solutions -> RemoveDuplicatesFromSortedArray.kt
+                    //27. Remove Element: solutions -> RemoveElement.kt
                 }
             }
         }
