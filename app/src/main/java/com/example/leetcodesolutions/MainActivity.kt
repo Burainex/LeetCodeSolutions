@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
                     //13. Roman to Integer: solutions -> RomanToInteger.kt
                     //14. Longest Common Prefix: solutions -> LongestCommonPrefix.kt
                     //20. Valid Parentheses: solutions -> ValidParentheses.kt
+                    //21. Merge Two Sorted Lists: solutions -> MergeTwoSortedLists.kt
                 }
             }
         }
