@@ -31,6 +31,7 @@ class MainActivity : ComponentActivity() {
                     //21. Merge Two Sorted Lists: solutions -> MergeTwoSortedLists.kt
                     //26. Remove Duplicates from Sorted Array: solutions -> RemoveDuplicatesFromSortedArray.kt
                     //27. Remove Element: solutions -> RemoveElement.kt
+                    //28. Find the Index of the First Occurrence in a String: solutions -> FindIndexOfFirstOccurrenceInString.kt
                 }
             }
         }
