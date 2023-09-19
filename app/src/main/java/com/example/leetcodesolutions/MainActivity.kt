@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
                     //27. Remove Element: solutions -> RemoveElement.kt
                     //28. Find the Index of the First Occurrence in a String: solutions -> FindIndexOfFirstOccurrenceInString.kt
                     //35. Search Insert Position: solutions -> SearchInsertPosition.kt
+                    //58. Length of Last Word: solutions -> LengthOfLastWord.kt
                 }
             }
         }
