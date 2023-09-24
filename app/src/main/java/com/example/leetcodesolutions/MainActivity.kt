@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
                     //83. Remove Duplicates from Sorted List: solutions -> RemoveDuplicatesFromSortedList.kt
                     //88. Merge Sorted Array: solutions -> MergeSortedArray.kt
                     //136. Single Number: solutions -> SingleNumber.kt
+                    //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                 }
             }
         }
