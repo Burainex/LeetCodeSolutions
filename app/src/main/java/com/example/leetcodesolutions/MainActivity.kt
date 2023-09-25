@@ -39,6 +39,7 @@ class MainActivity : ComponentActivity() {
                     //88. Merge Sorted Array: solutions -> MergeSortedArray.kt
                     //136. Single Number: solutions -> SingleNumber.kt
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
+                    //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
                 }
             }
         }
