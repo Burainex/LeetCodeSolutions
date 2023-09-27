@@ -37,6 +37,7 @@ class MainActivity : ComponentActivity() {
                     //66. Plus One: solutions -> PlusOne.kt
                     //83. Remove Duplicates from Sorted List: solutions -> RemoveDuplicatesFromSortedList.kt
                     //88. Merge Sorted Array: solutions -> MergeSortedArray.kt
+                    //121. Best Time to Buy and Sell Stock: solutions -> BestTimeToBuyAndSellStock.kt
                     //136. Single Number: solutions -> SingleNumber.kt
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                     //389. Find the Difference: solutions -> FindTheDifference.kt
