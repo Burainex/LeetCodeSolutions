@@ -41,6 +41,7 @@ class MainActivity : ComponentActivity() {
                     //136. Single Number: solutions -> SingleNumber.kt
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                     //389. Find the Difference: solutions -> FindTheDifference.kt
+                    //1920. Build Array from Permutation: solutions -> BuildArrayFromPermutation.kt
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
                 }
             }
