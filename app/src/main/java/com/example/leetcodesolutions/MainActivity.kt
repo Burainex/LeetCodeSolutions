@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                     //389. Find the Difference: solutions -> FindTheDifference.kt
                     //1108. Defanging an IP Address: solutions -> DefangingAnIPAddress.kt
+                    //1816. Truncate Sentence: solutions -> TruncateSentence.kt
                     //1920. Build Array from Permutation: solutions -> BuildArrayFromPermutation.kt
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
                 }
