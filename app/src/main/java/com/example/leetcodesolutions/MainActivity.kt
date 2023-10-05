@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
                     //1920. Build Array from Permutation: solutions -> BuildArrayFromPermutation.kt
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
+                    //2652. Sum Multiples: solutions -> SumMultiples.kt
                 }
             }
         }
