@@ -41,6 +41,7 @@ class MainActivity : ComponentActivity() {
                     //136. Single Number: solutions -> SingleNumber.kt
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                     //389. Find the Difference: solutions -> FindTheDifference.kt
+                    //709. To Lower Case: solutions -> ToLowerCase.kt
                     //1108. Defanging an IP Address: solutions -> DefangingAnIPAddress.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
                     //1773. Count Items Matching a Rule: solutions -> CountItemsMatchingARule.kt
