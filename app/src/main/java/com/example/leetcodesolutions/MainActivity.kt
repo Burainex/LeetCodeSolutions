@@ -43,6 +43,7 @@ class MainActivity : ComponentActivity() {
                     //389. Find the Difference: solutions -> FindTheDifference.kt
                     //709. To Lower Case: solutions -> ToLowerCase.kt
                     //1108. Defanging an IP Address: solutions -> DefangingAnIPAddress.kt
+                    //1221. Split a String in Balanced Strings: solutions -> SplitAStringInBalancedStrings.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
                     //1773. Count Items Matching a Rule: solutions -> CountItemsMatchingARule.kt
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
