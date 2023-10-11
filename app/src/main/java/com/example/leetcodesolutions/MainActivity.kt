@@ -44,6 +44,7 @@ class MainActivity : ComponentActivity() {
                     //709. To Lower Case: solutions -> ToLowerCase.kt
                     //1108. Defanging an IP Address: solutions -> DefangingAnIPAddress.kt
                     //1221. Split a String in Balanced Strings: solutions -> SplitAStringInBalancedStrings.kt
+                    //1486. XOR Operation in an Array: solutions -> XOROperationInAnArray.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
                     //1773. Count Items Matching a Rule: solutions -> CountItemsMatchingARule.kt
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
