@@ -51,6 +51,7 @@ class MainActivity : ComponentActivity() {
                     //1920. Build Array from Permutation: solutions -> BuildArrayFromPermutation.kt
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
                     //2160. Minimum Sum of Four Digit Number After Splitting Digits: solutions -> MinimumSumOfFourDigitNumberAfterSplittingDigits.kt
+                    //2413. Smallest Even Multiple: solutions -> SmallestEvenMultiple.kt
                     //2652. Sum Multiples: solutions -> SumMultiples.kt
                 }
             }
