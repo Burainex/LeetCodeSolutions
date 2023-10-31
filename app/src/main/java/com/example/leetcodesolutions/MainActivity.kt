@@ -54,6 +54,7 @@ class MainActivity : ComponentActivity() {
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
                     //2160. Minimum Sum of Four Digit Number After Splitting Digits: solutions -> MinimumSumOfFourDigitNumberAfterSplittingDigits.kt
                     //2413. Smallest Even Multiple: solutions -> SmallestEvenMultiple.kt
+                    //2433. Find The Original Array of Prefix Xor: solutions -> FindTheOriginalArrayOfPrefixXor.kt
                     //2652. Sum Multiples: solutions -> SumMultiples.kt
                 }
             }
