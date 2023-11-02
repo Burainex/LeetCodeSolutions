@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
                     //1281. Subtract the Product and Sum of Digits of an Integer: solutions -> SubtractTheProductAndSumOfDigitsOfAnInteger.kt
                     //1313. Decompress Run-Length Encoded List: solutions -> DecompressRunLengthEncodedList.kt
                     //1486. XOR Operation in an Array: solutions -> XOROperationInAnArray.kt
+                    //1512. Number of Good Pairs: solutions -> NumberOfGoodPairs.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
                     //1773. Count Items Matching a Rule: solutions -> CountItemsMatchingARule.kt
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
