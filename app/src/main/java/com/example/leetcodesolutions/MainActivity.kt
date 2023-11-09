@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
                     //206. Reverse Linked List: solutions -> ReverseLinkedList.kt
                     //389. Find the Difference: solutions -> FindTheDifference.kt
                     //709. To Lower Case: solutions -> ToLowerCase.kt
+                    //771. Jewels and Stones: solutions -> JewelsAndStones.kt
                     //1108. Defanging an IP Address: solutions -> DefangingAnIPAddress.kt
                     //1221. Split a String in Balanced Strings: solutions -> SplitAStringInBalancedStrings.kt
                     //1281. Subtract the Product and Sum of Digits of an Integer: solutions -> SubtractTheProductAndSumOfDigitsOfAnInteger.kt
