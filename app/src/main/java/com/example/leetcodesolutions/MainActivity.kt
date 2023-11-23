@@ -51,10 +51,11 @@ class MainActivity : ComponentActivity() {
                     //1470. Shuffle the Array: solutions -> ShuffleTheArray.kt
                     //1476. Subrectangle Queries: solutions -> SubrectangleQueries.kt
                     //1486. XOR Operation in an Array: solutions -> XOROperationInAnArray.kt
-                    //1603. Design Parking System: solutions -> DesignParkingSystem.kt
-                    //1672. Richest Customer Wealth: solutions -> RichestCustomerWealth.kt
                     //1512. Number of Good Pairs: solutions -> NumberOfGoodPairs.kt
+                    //1603. Design Parking System: solutions -> DesignParkingSystem.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
+                    //1672. Richest Customer Wealth: solutions -> RichestCustomerWealth.kt
+                    //1678. Goal Parser Interpretation: solutions -> GoalParserInterpretation.kt
                     //1689. Partitioning Into Minimum Number Of Deci-Binary Numbers: solutions -> PartitioningIntoMinimumNumberOfDeciBinaryNumbers.kt
                     //1773. Count Items Matching a Rule: solutions -> CountItemsMatchingARule.kt
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
