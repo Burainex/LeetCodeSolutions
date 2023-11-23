@@ -51,6 +51,7 @@ class MainActivity : ComponentActivity() {
                     //1476. Subrectangle Queries: solutions -> SubrectangleQueries.kt
                     //1486. XOR Operation in an Array: solutions -> XOROperationInAnArray.kt
                     //1603. Design Parking System: solutions -> DesignParkingSystem.kt
+                    //1672. Richest Customer Wealth: solutions -> RichestCustomerWealth.kt
                     //1512. Number of Good Pairs: solutions -> NumberOfGoodPairs.kt
                     //1656. Design an Ordered Stream: solutions -> DesignAnOrderedStream.kt
                     //1689. Partitioning Into Minimum Number Of Deci-Binary Numbers: solutions -> PartitioningIntoMinimumNumberOfDeciBinaryNumbers.kt
