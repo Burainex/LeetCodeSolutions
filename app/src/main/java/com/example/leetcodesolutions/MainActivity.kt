@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
                     //1221. Split a String in Balanced Strings: solutions -> SplitAStringInBalancedStrings.kt
                     //1281. Subtract the Product and Sum of Digits of an Integer: solutions -> SubtractTheProductAndSumOfDigitsOfAnInteger.kt
                     //1313. Decompress Run-Length Encoded List: solutions -> DecompressRunLengthEncodedList.kt
+                    //1365. How Many Numbers Are Smaller Than the Current Number: solutions -> HowManyNumbersAreSmallerThanTheCurrentNumber.kt
                     //1431. Kids With the Greatest Number of Candies: solutions -> KidsWithTheGreatestNumberOfCandies.kt
                     //1470. Shuffle the Array: solutions -> ShuffleTheArray.kt
                     //1476. Subrectangle Queries: solutions -> SubrectangleQueries.kt
