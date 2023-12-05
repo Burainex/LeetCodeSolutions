@@ -62,7 +62,8 @@ class MainActivity : ComponentActivity() {
                     //1816. Truncate Sentence: solutions -> TruncateSentence.kt
                     //1920. Build Array from Permutation: solutions -> BuildArrayFromPermutation.kt
                     //1929. Concatenation of Array: solutions -> ConcatenationOfArray.kt
-                    //2011. Final Value of Variable After Performing Operations: -> FinalValueOfVariableAfterPerformingOperations.kt
+                    //2011. Final Value of Variable After Performing Operations: solutions -> FinalValueOfVariableAfterPerformingOperations.kt
+                    //2114. Maximum Number of Words Found in Sentences: solutions -> MaximumNumberOfWordsFoundInSentences.kt
                     //2160. Minimum Sum of Four Digit Number After Splitting Digits: solutions -> MinimumSumOfFourDigitNumberAfterSplittingDigits.kt
                     //2235. Add Two Integers: solutions -> AddTwoIntegers.kt
                     //2413. Smallest Even Multiple: solutions -> SmallestEvenMultiple.kt
