@@ -75,6 +75,7 @@ class MainActivity : ComponentActivity() {
                     //2798. Number of Employees Who Met the Target: solutions -> NumberOfEmployeesWhoMetTheTarget.kt
                     //2807. Insert Greatest Common Divisors in Linked List: solutions -> InsertGreatestCommonDivisorsInLinkedList.kt
                     //2824. Count Pairs Whose Sum is Less than Target: solutions -> CountPairsWhoseSumIsLessThanTarget.kt
+                    //2859. Sum of Values at Indices With K Set Bits: solutions -> SumOfValuesAtIndicesWithKSetBits.kt
                     //2894. Divisible and Non-divisible Sums Difference: solutions -> DivisibleAndNonDivisibleSumsDifference.kt
                 }
             }
