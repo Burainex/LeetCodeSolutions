@@ -36,6 +36,7 @@ class MainActivity : ComponentActivity() {
                     //58. Length of Last Word: solutions -> LengthOfLastWord.kt
                     //66. Plus One: solutions -> PlusOne.kt
                     //67. Add Binary: solutions -> AddBinary.kt
+                    //69. Sqrt(x): solutions -> SqrtX.kt
                     //83. Remove Duplicates from Sorted List: solutions -> RemoveDuplicatesFromSortedList.kt
                     //88. Merge Sorted Array: solutions -> MergeSortedArray.kt
                     //121. Best Time to Buy and Sell Stock: solutions -> BestTimeToBuyAndSellStock.kt
